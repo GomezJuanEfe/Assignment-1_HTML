@@ -56,7 +56,7 @@ header .media .media__video {
   z-index: 30;
   background-color: rgba(0, 0, 0, 0.6);
 }
-header .media .media__video video {
+header .media .media__video img {
   width: 100%;
   height: 100%;
   object-fit: cover;
@@ -157,13 +157,13 @@ main #contact .icon {
   background-repeat: no-repeat;
 }
 main #contact .contact__linkedin {
-  background-image: url(/img/icon-linkedin.svg);
+  background-image: url(/img/linkedin-logo.svg);
 }
 main #contact .contact__github {
-  background-image: url(/img/icon-github.svg);
+  background-image: url(/img/github-logo.svg);
 }
 main #contact .contact__twitter {
-  background-image: url(/img/icon-twitter.svg);
+  background-image: url(/img/twitter-logo.svg);
 }
 /* FOOTER */
 footer {
