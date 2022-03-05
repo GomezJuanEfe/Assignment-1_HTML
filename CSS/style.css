@@ -156,15 +156,6 @@ main #contact .icon {
   background-size: cover;
   background-repeat: no-repeat;
 }
-main #contact .contact__linkedin {
-  background-image: url(/img/linkedin-logo.svg);
-}
-main #contact .contact__github {
-  background-image: url(/img/github-logo.svg);
-}
-main #contact .contact__twitter {
-  background-image: url(/img/twitter-logo.svg);
-}
 /* FOOTER */
 footer {
   height: 250px;
